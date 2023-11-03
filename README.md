@@ -26,6 +26,10 @@ If the report is still running (status is "Running"), it returns "Running."
 If the report is complete (status is "Complete"), it returns "Complete" along with the generated CSV report file for download.
 This code essentially provides a web service for storing CSV data into MongoDB, calculating uptime and downtime for stores, generating reports, and allowing users to retrieve the generated reports. Users can trigger report generation and check the status of report generation tasks.
 
+Video
+
+https://drive.google.com/file/d/1V-kldCZmL_bTfCrTQMsX-cQLYQLfv7wh/view?usp=drive_link
+
 Screenshot1
 
 ![image](https://github.com/sarthak37/Loop/assets/52873771/432801c6-b3a4-446c-bf76-cceee83fefe0)
