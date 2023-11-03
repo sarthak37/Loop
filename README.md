@@ -1,5 +1,7 @@
 # Loop
 
+The Application is build in FASTAPI
+
 Database Connection: It establishes a connection to a MongoDB database hosted on MongoDB Atlas.
 
 CSV Data Import: The /store_csv_data endpoint reads data from three CSV files: "store_status.csv," "store_hours.csv," and "store_timezone.csv."
